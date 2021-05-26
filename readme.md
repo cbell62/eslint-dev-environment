@@ -1,4 +1,5 @@
-# Quiz 10 exercise
+# Info
 
-Code to be used for Quiz 10 exercise.
+- **ESLINT Development Enviroment Quiz 10 exercise Assignment for ITIS 4166 (Network Based App Development)**
+
 
